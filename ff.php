@@ -9,5 +9,3 @@
 echo 99;
 echo 99;
 
-echo 888;
-echo 99;
