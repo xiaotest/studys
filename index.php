@@ -7,4 +7,3 @@
  */
 echo 99;
 echo 88;
-echo 6666;
